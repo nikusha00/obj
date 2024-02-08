@@ -100,3 +100,36 @@
   margin-left: 380px;
   margin-top: -35px;
 }
+.obj1 {
+  width: 1500px;
+  height: 200px;
+  background-color: rgb(54, 54, 54);
+  margin-top: 33px;
+}
+.fon {
+  font-size: 30px;
+  margin-top: 10px;
+  margin-left: 690px;
+  color: rgb(41, 41, 189);
+}
+.fon1 {
+  font-size: 30px;
+  margin-top: -35px;
+  margin-left: 740px;
+  color: #87ceeb;
+}
+.fon2 {
+  font-size: 30px;
+  color: red;
+  margin-left: 785px;
+  margin-top: -35px;
+}
+.TOKYO {
+  margin-top: -10px;
+  margin-left: 550px;
+}
+.TOKYO1 {
+  text-decoration: none;
+  margin-left: 360px;
+  margin-top: -34px;
+}

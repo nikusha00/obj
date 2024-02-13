@@ -9,6 +9,7 @@
   width: 1500px;
   height: 350px;
   background-color: rgb(54, 54, 54);
+  display: block;
 }
 .obj2 {
   width: 240px;
@@ -74,38 +75,7 @@
   font-size: 25px;
   margin-left: 320px;
 }
-.header {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  margin-left: 850px;
-}
 
-.wera1 {
-  text-decoration: none;
-  color: aqua;
-  font-size: 25px;
-  margin-left: 30px;
-}
-
-.wera2 {
-  text-decoration: none;
-  color: black;
-  font-size: 25px;
-  margin-left: 30px;
-}
-.wera04 {
-  text-decoration: none;
-  color: black;
-  font-size: 25px;
-  margin-left: 30px;
-}
-.wera3 {
-  text-decoration: none;
-  color: black;
-  font-size: 25px;
-  margin-left: 30px;
-}
 .font1 {
   font-size: 30px;
   margin-top: 50px;
@@ -132,4 +102,24 @@
   text-decoration: none;
   margin-left: 360px;
   margin-top: -34px;
+}
+ul li {
+  list-style: none;
+}
+ul {
+  display: flex;
+  margin-left: 850px;
+  cursor: pointer;
+}
+li {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  margin: 20px;
+}
+li:hover {
+  color: aqua;
+}
+a {
+  text-decoration: none;
 }

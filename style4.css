@@ -1,34 +1,22 @@
-.header {
-  display: -webkit-box;
-  display: -ms-flexbox;
+ul li {
+  list-style: none;
+}
+ul {
   display: flex;
   margin-left: 850px;
+  cursor: pointer;
 }
-
-.wera1 {
-  text-decoration: none;
-  color: rgb(0, 0, 0);
-  font-size: 25px;
-  margin-left: 30px;
-}
-
-.wera2 {
-  text-decoration: none;
+li {
   color: black;
-  font-size: 25px;
-  margin-left: 30px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  margin: 20px;
 }
-.wera04 {
-  text-decoration: none;
+li:hover {
   color: aqua;
-  font-size: 25px;
-  margin-left: 30px;
 }
-.wera3 {
+a {
   text-decoration: none;
-  color: rgb(0, 0, 0);
-  font-size: 25px;
-  margin-left: 30px;
 }
 .wre1 {
   width: 150px;

@@ -47,18 +47,20 @@ ul {
   cursor: pointer;
 }
 li {
-  color: black;
   font-family: "Times New Roman", Times, serif;
   font-size: 30px;
   margin: 20px;
 }
-li:hover {
-  color: aqua;
-}
 a {
   text-decoration: none;
+  color: black;
 }
-
+a:hover {
+  color: rgb(85, 84, 84);
+}
+.color2 {
+  color: aqua;
+}
 .line {
   color: rgb(14, 213, 213);
   font-size: 25px;

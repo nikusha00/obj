@@ -112,14 +112,14 @@ ul {
   cursor: pointer;
 }
 li {
-  color: black;
   font-family: "Times New Roman", Times, serif;
   font-size: 30px;
   margin: 20px;
 }
-li:hover {
-  color: aqua;
-}
 a {
   text-decoration: none;
+  color: #000;
+}
+a:hover {
+  color: aqua;
 }
